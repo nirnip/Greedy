@@ -1,0 +1,7 @@
+﻿  gas.cpp
+C:\Users\PC\Desktop\백준\Greedy\Greedy\gas.cpp(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC\Desktop\백준\Greedy\Greedy\gas.cpp(13,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC\Desktop\백준\Greedy\Greedy\gas.cpp(18,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC\Desktop\백준\Greedy\Greedy\gas.cpp(22,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC\Desktop\백준\Greedy\Greedy\gas.cpp(25,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Greedy.vcxproj -> C:\Users\PC\Desktop\백준\Greedy\Debug\Greedy.exe
